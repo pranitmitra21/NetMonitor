@@ -1,0 +1,13 @@
+## Usage
+
+1. Live Traffic Capture: Select protocol, choose capture mode, view live preview, see statistics, and optionally save PCAP.
+2. PCAP Analysis: Load a PCAP file, view first 10 packets, analyze statistics, optionally save filtered packets.
+
+## Dependencies
+
+1. Python 3.x
+2. Scapy
+
+## Install dependencies:
+
+--> pip install scapy
